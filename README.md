@@ -12,14 +12,4 @@ Screen Shots
 ![photo_2024-04-16_23-52-44](https://github.com/Ashutosh-Chouhan/Modern-Face-Recognisation-Attendence-System/assets/114951916/0c993e2a-e9a0-4280-a3fa-2cabfe1ac1fb)
 
 
-REQUIREMENTS
-Python,Mysql Workbench,Vs code editor
-
-Required Libraries :-
-1. pip install tkinter
-2. pip install customtkinter
-3. pip install pillow
-4. pip install numpy
-5. pip install mysql-connector-python
-6. pip install opencv-python
 
